@@ -1,0 +1,16 @@
+aiogram<4,>=3.13
+ccxt>=4.4
+pandas>=2.2
+numpy>=2.0
+scipy>=1.14
+plotly>=5.24
+kaleido>=0.2.1
+pydantic-settings>=2.5
+httpx>=0.27
+structlog>=24.4
+websockets>=13
+
+[dev]
+pytest>=8.3
+pytest-asyncio>=0.24
+ruff>=0.7

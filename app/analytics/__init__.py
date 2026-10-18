@@ -1,0 +1,1 @@
+"""Pure market analytics functions."""
